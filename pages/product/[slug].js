@@ -1,7 +1,7 @@
 import axios from 'axios';
 import Image from 'next/image';
 import Link from 'next/link';
-import Router, { useRouter } from 'next/router';
+import { useRouter } from 'next/router';
 import { toast } from 'react-toastify';
 import React, { useContext } from 'react';
 import Layout from '../../components/Layout';

@@ -7,7 +7,7 @@ import { getError } from '../utils/error';
 import { toast } from 'react-toastify';
 import { useRouter } from 'next/router';
 
-export default function loginScreen() {
+export default function LoginScreen() {
   const { data: session } = useSession();
 
   const router = useRouter();
