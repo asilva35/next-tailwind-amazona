@@ -1,6 +1,6 @@
 # Nextjs Tailwind ECommerce Website Like Amazon
 
-description(1)
+description(1-2)
 
 ## Lessons
 
